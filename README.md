@@ -1,16 +1,26 @@
-## Hi there 👋
+## autumn ; 23 ; she/they ; lesbian ; taken ##
 
-<!--
-**fungicats/fungicats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<dl>
+  <dt>info</dt>
+  <dd>i'm often hanging around the bakery area! feel free to sit with me, but i probably won't be very talkative</dd>
+  <dd>please don't copy my ponies! inspiration is fine, but i'd appreciate you making your own skin instead of copying mine!</dd>
+  <dd>i often do friends list purges, so if i remove you then it's nothing personal!</dd>
+</dl>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<dl>
+  <dt>interests</dt>
+  <dd><b>steven universe</b>, <b>warrior cats</b>, scott pilgrim, the owl house, the elder scrolls</dd>
+  <dd>she-ra, pokemon, minecraft, jurassic park, mouthwashing & more</dd>
+  <dd>zoology, <b>deer</b>, <b>cats</b>, rodents, hamster care</dd>
+</dl>
+
+---
+
+<dl>
+  <dt>favourite characters</dt>
+  <dd> <b>blue diamond</b>, <b>yellow diamond</b>, <b>lapis lazuli</b>, peridot, pearl, <b>amethyst</b>, garnet, volleyball</dd>
+  <dd><b>squirrelstar</b>, <b>brambleclaw</b>, <b>sunbeam</b>, bumble, goldenflower, firestar</dd>
+  <dd><b>ramona flowers</b>, scott pilgrim, <b>amity blight</b>, luz noceda, <b>anya</b>, catra, scorpia, double trouble</dd>
+</dl>
