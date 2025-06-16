@@ -1,4 +1,4 @@
-## autumn ; 23 ; she/they ; lesbian ; taken ##
+## autumn ; 24 ; she/they ; https://pronouns.cc/@fungicat ##
 
 <dl>
   <dt>info</dt>
@@ -8,25 +8,6 @@
   <dd>you're more than welcome to sit with me! i'm not always very talkative but i try my best</dd>
 </dl>
 
----
+![2e911726c90717d519d7f9c24e90c402](https://github.com/user-attachments/assets/b754d55d-568f-4b22-8218-2d3fd761f600)
 
-<dl>
-  <dt>interests</dt>
-  <dd><b>steven universe</b>, <b>warrior cats</b>, scott pilgrim, the owl house, the elder scrolls</dd>
-  <dd>she-ra, pokemon, minecraft, jurassic park, mouthwashing & more</dd>
-  <dd>zoology, <b>deer</b>, <b>cats</b>, rodents, hamster care</dd>
-</dl>
-
----
-
-<dl>
-  <dt>favourite characters</dt>
-  <dd> <b>blue diamond</b>, <b>yellow diamond</b>, <b>lapis lazuli</b>, peridot, pearl, <b>amethyst</b>, garnet, volleyball</dd>
-  <dd><b>squirrelstar</b>, <b>brambleclaw</b>, <b>sunbeam</b>, bumble, goldenflower, firestar</dd>
-  <dd><b>ramona flowers</b>, scott pilgrim, <b>amity blight</b>, luz noceda, <b>anya</b>, catra, scorpia, double trouble</dd>
-</dl>
-
----
-
-![pony-town-💎 _ blue diamond-trot-blinking-padded-ponyplush-2x](https://github.com/user-attachments/assets/cdd40a7b-803a-4aea-b3df-c129ff8e71cf)![pony-town-💎 _ yellow diamond-trot-blinking-padded-ponyplush-2x](https://github.com/user-attachments/assets/e1e2b857-6a24-4a9f-8424-8a67f64cb171)![pony-town-💎 _ lapis lazuli-trot-blinking-padded-2x](https://github.com/user-attachments/assets/4fe746e6-8fc5-463a-9f3f-6fb70f1794a0)![pony-town-🥀 _ anya-trot-blinking-padded-2x](https://github.com/user-attachments/assets/56579b6f-cca6-4c85-90e1-3e757ab118f4)
 
