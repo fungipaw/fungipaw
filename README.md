@@ -1,9 +1,7 @@
-## autumn ; 24 ; she/they ; taken <3 ; https://pronouns.cc/@fungicat ##
+## autumn ; 24 ; she/they ; 15/11/2025 ; https://pronouns.cc/@fungicat ##
 
-<dl><img width="1229" height="873" alt="image" src="https://github.com/user-attachments/assets/e4a92e87-e513-47c8-9c3a-500cb6e16cc1" />
-<dt>🌙 ₊⟡ 15/11/2025 ⟡₊ ☀️</dt>
-  <dd>ohhhh i'm kissing my boyfriend oooooo</dd></dl>
-
+<dl><img width="700" height="" alt="image" src="https://github.com/user-attachments/assets/e4a92e87-e513-47c8-9c3a-500cb6e16cc1" />
+</dl>
 <dl>
   <dt>info</dt>
   <dd>please don't copy my ponies! inspiration is fine, but i'd appreciate you making your own skin instead of copying mine!</dd>
