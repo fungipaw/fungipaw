@@ -1,4 +1,4 @@
-## autumn ; 24 ; she/they ; 15/11/2025 ; https://pronouns.cc/@fungicat ##
+## autumn ; 24 ; she/they ; 🖤 15/11/2025 🧡 ; https://pronouns.cc/@fungicat ##
 
 <dl><img width="700" height="" alt="image" src="https://github.com/user-attachments/assets/e4a92e87-e513-47c8-9c3a-500cb6e16cc1" />
 </dl>
